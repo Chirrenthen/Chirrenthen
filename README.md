@@ -11,7 +11,8 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
 
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=y7WGoWNuIWac&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> 
+<img height="100" width="100" src="https://img.icons8.com/color/48/000000/arduino.png"/> <img height="100" width="100" src="https://img.icons8.com/color/48/000000/chatgpt.png"/>
+<img height="100" width="100" src="https://www.espressif.com/sites/all/themes/espressif/logo-black.svg"/> 
 
 
 ### 💻 Workspace Spec
