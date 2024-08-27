@@ -13,6 +13,7 @@
 ### IDE and Tools I Use
 <img height="100" width="100" src="https://img.icons8.com/color/48/000000/arduino.png"/> <img height="100" width="100" src="https://img.icons8.com/color/48/000000/chatgpt.png"/>
 <img height="100" width="100" src="https://www.espressif.com/sites/all/themes/espressif/logo-black.svg"/> 
+<img height="100" width="100" src="https://techiesms.com/wp-content/uploads/2022/11/cropped-cropped-newlogo-banner-1.png"/> 
 
 
 ### 💻 Workspace Spec
