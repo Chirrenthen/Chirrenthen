@@ -1,10 +1,9 @@
 ## Hi there 👋 It's me Chirrenthen
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my portofolio[https://chirrenthen.my.canva.site/portofolio]
-- 🔭 Here's my secondary portofolio[https://chirrenthen.my.canva.site/website-portfolio]
-- 🌱 I’m currently learning Python
-- 💬 Ask me about Tech
+- 🔭 Here's my website[https://chirrenthen13.wixsite.com/chirrenthen]<br>
+- 🌱 I’m currently learning Python<br>
+- 💬 Ask me about Tech<br>
 
 
 ### Languages Known
