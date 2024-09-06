@@ -1,9 +1,11 @@
 ## Hi there 👋 It's me Chirrenthen
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my website[https://chirrenthen13.wixsite.com/chirrenthen]<br>
+<img align="right" width="500" height="500" src="https://i0.wp.com/sharpeyeinfotech.com/wp-content/uploads/2023/03/unnamed.gif?fit=500%2C500&ssl=1">
+- 🔭 Here's my website(https://chirrenthen13.wixsite.com/chirrenthen)<br>
 - 🌱 I’m currently learning Python<br>
 - 💬 Ask me about Tech<br>
+- 📫 How to reach me :
+<br /> <img src="https://img.shields.io/badge/Gmail-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white"/>(chirrenthen13@gmail.com)
 
 
 ### Languages Known
