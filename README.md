@@ -10,9 +10,8 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" > <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" >
 
 ### IDE and Tools I Use
-<img height="100" width="100" src="https://img.icons8.com/color/48/000000/arduino.png"/> <img height="100" width="100" src="https://img.icons8.com/color/48/000000/chatgpt.png"/>
-<img height="100" width="100" src="https://www.espressif.com/sites/all/themes/espressif/logo-black.svg"/> 
-<img height="100" width="300" src="https://techiesms.com/wp-content/uploads/2022/11/cropped-cropped-newlogo-banner-1.png"/> 
+<img height="100" width="225" src="https://www.arduino.cc/en/uploads/Trademark/ArduinoCommunityLogo.png"/><img height="135" width="230" src="https://www.hatchwise.com/wp-content/uploads/2024/05/image-27.png.webp"/>
+<img height="200" width="200" src="https://www.espressif.com/sites/all/themes/espressif/logo-black.svg"/> <img height="100" width="300" src="https://techiesms.com/wp-content/uploads/2022/11/cropped-cropped-newlogo-banner-1.png"/> 
 
 
 ### 💻 Workspace Spec
