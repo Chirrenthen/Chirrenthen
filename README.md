@@ -10,8 +10,11 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" > <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" >
 
 ### IDE and Tools I Use
-<img height="100" width="225" src="https://www.arduino.cc/en/uploads/Trademark/ArduinoCommunityLogo.png"/><img height="135" width="230" src="https://www.hatchwise.com/wp-content/uploads/2024/05/image-27.png.webp"/>
-<img height="200" width="200" src="https://www.espressif.com/sites/all/themes/espressif/logo-black.svg"/> <img height="100" width="300" src="https://techiesms.com/wp-content/uploads/2022/11/cropped-cropped-newlogo-banner-1.png"/> 
+<img height="100" width="225" src="https://www.arduino.cc/en/uploads/Trademark/ArduinoCommunityLogo.png"/>
+<img height="135" width="230" src="https://www.hatchwise.com/wp-content/uploads/2024/05/image-27.png.webp"/>
+<img height="200" width="200" src="https://www.espressif.com/sites/all/themes/espressif/logo-black.svg"/> 
+<img height="100" width="300" src="https://techiesms.com/wp-content/uploads/2022/11/cropped-cropped-newlogo-banner-1.png"/> <img height="100" width="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/516px-Google_Gemini_logo.svg.png"/> 
+
 
 
 ### 💻 Workspace Spec
@@ -21,7 +24,7 @@
 
   
 
-![Chirrenthen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chirrenthen&theme=dark&show_icons=true&&hide=issues,contribs)
+![Chirrenthen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chirrenthen&theme=light&show_icons=true&&hide=issues,contribs)
 
 
-[![Chirrenthen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chirrenthen&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Chirrenthen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chirrenthen&bg_color=ffffff&color=000000&line=0080fe&point=40e0d0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
