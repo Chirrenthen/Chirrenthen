@@ -5,7 +5,8 @@
 - 🌱 I’m currently learning Python<br>
 - 💬 Ask me about Tech<br>
 - 📫 How to reach me :
-<br /> <img src="https://img.shields.io/badge/Gmail-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white"/>(chirrenthen13@gmail.com)
+<img src="https://img.shields.io/badge/Gmail-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white"/>
+(chirrenthen13@gmail.com)
 
 
 ### Languages Known
@@ -29,4 +30,4 @@
 ![Chirrenthen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chirrenthen&theme=light&show_icons=true&&hide=issues,contribs)
 
 
-[![Chirrenthen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chirrenthen&bg_color=ffffff&color=000000&line=0080fe&point=40e0d0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Chirrenthen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chirrenthen&bg_color=ffffff&color=000407&line=4246ff&point=42fffb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
