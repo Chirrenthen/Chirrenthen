@@ -3,11 +3,13 @@
 <img align="right" width="500" height="500" src="https://i0.wp.com/sharpeyeinfotech.com/wp-content/uploads/2023/03/unnamed.gif?fit=500%2C500&ssl=1">
 - 🔭 Here's my website - https://chirrenthen13.wixsite.com/iothub <br>
 - 📝 Visit my blogs here - https://chirrenthen13.wixsite.com/iothub/blog <br>
+- 🧑🏻‍💻 Support me on Patreon - https://www.patreon.com/Chirrenthen <br>
 - 🌱 I’m currently learning Python<br>
 - 💬 Ask me about Tech<br>
 - 📫 How to reach me :
-<img src="https://img.shields.io/badge/Gmail-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white"/>
-(chirrenthen13@gmail.com)
+<img src="https://img.shields.io/badge/Gmail-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white"
+  
+chirrenthen13@gmail.com
 
 
 ### Languages Known
