@@ -31,9 +31,14 @@
 ### 💻 Workspace Specifications
 <img height="50" src="https://in-media.apjonlinecdn.com/logo/stores/1/LogoHPblue_1.svg" alt="HP Logo"/>     <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Intel_logo_2023.svg/768px-Intel_logo_2023.svg.png" alt="Intel Logo"/>     <img height="50" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Intel_Core_i5_%2811th_generation%2C_logo%29.svg/768px-Intel_Core_i5_%2811th_generation%2C_logo%29.svg.png?20211018065945" alt="Intel Core i5 Logo"/>     <img height="50" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Intel_Iris_Xe_Graphics_%28logo%29.svg/330px-Intel_Iris_Xe_Graphics_%28logo%29.svg.png" alt="Intel Iris Xe Graphics Logo"/>  
 
+### 📊 Statistics
 ![Chirrenthen's top used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chirrenthen&layout=compact)
 
 ![Chirrenthen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chirrenthen&theme=light&show_icons=true&&hide=issues,contribs)
 
+![Chirrenthen's Streak](https://github-readme-streak-stats.herokuapp.com/?user=chirrenthen&theme=light&hide_border=false)
+
 [![Chirrenthen's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chirrenthen&bg_color=ffffff&color=000407&line=4246ff&point=42fffb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+    
+![Chirrenthen's Contributions](https://github.com/Chirrenthen/Chirrenthen/blob/output/github-snake-light.svg)
 
