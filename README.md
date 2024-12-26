@@ -25,7 +25,7 @@
 ### 💻 Workspace Specifications
 <img height="50" src="https://in-media.apjonlinecdn.com/logo/stores/1/LogoHPblue_1.svg" alt="HP Logo"/>     <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Intel_logo_2023.svg/768px-Intel_logo_2023.svg.png" alt="Intel Logo"/>     <img height="50" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Intel_Core_i5_%2811th_generation%2C_logo%29.svg/768px-Intel_Core_i5_%2811th_generation%2C_logo%29.svg.png?20211018065945" alt="Intel Core i5 Logo"/>     <img height="50" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Intel_Iris_Xe_Graphics_%28logo%29.svg/330px-Intel_Iris_Xe_Graphics_%28logo%29.svg.png" alt="Intel Iris Xe Graphics Logo"/>  
 
-[![Chirrenthen's top used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chirrenthen)](https://github.com/anuraghazra/github-readme-stats)
+![Chirrenthen's top used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chirrenthen&layout=compact)
 
 ![Chirrenthen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chirrenthen&theme=light&show_icons=true&&hide=issues,contribs)
 
