@@ -1,4 +1,6 @@
-## Hi there 👋 I'm Chirrenthen 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=30&duration=3000&pause=1000&color=0096FFDC&width=435&lines=Hi+There+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Chirrenthen+!" />
+</h1>
 
 <img align="right" width="500" height="500" src="https://i0.wp.com/sharpeyeinfotech.com/wp-content/uploads/2023/03/unnamed.gif?fit=500%2C500&ssl=1">
 
@@ -13,7 +15,11 @@
   <img src="https://img.shields.io/badge/Gmail-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"> chirrenthen13@gmail.com
 
 ### Languages Known
-<img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />   <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C Logo"> <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/180px-HTML5_logo_and_wordmark.svg.png" alt="C++ Logo"> <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Html5_css3_styling.svg/180px-Html5_css3_styling.svg.png" alt="C++ Logo">  <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/900px-JavaScript-logo.png" alt="C++ Logo"> 
+<img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" /> 
+<img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
+<img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/180px-HTML5_logo_and_wordmark.svg.png" alt="C++ Logo"> 
+<img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Html5_css3_styling.svg/180px-Html5_css3_styling.svg.png" alt="C++ Logo">  
+<img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/900px-JavaScript-logo.png" alt="C++ Logo">
 
 ### IDEs and Tools I Use
 <img height="100" width="225" src="https://www.arduino.cc/en/uploads/Trademark/ArduinoCommunityLogo.png" alt="Arduino Logo"/>  
@@ -30,3 +36,4 @@
 ![Chirrenthen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chirrenthen&theme=light&show_icons=true&&hide=issues,contribs)
 
 [![Chirrenthen's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chirrenthen&bg_color=ffffff&color=000407&line=4246ff&point=42fffb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
