@@ -1,7 +1,7 @@
 <h1 align="center">
                  <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=30&duration=3000&pause=1000&color=0096FFDC&width=430&lines=Hi+There+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Chirrenthen+!" />
 </h1>
-<img align="right" width="400" height="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnR3ZXp0M25sdG1xa3U3ODkzNWFkeDRveTRnOTRha2FrbnA3Zzl0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fYwNePiilaTQYevESX/giphy.webp">
+<img align="right" width="350" height="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnR3ZXp0M25sdG1xa3U3ODkzNWFkeDRveTRnOTRha2FrbnA3Zzl0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fYwNePiilaTQYevESX/giphy.webp">
 
 ## Connect with Me
 
@@ -11,7 +11,7 @@
 - 🌱 **Learning**: Currently enhancing my skills in **Python**.  
 - 💬 **Ask me about**: Anything tech-related!  
 - 📫 **Contact**:
-  chirrenthen13@gmail.com
+  
 
 ## Languages Known
 ![C](https://img.shields.io/badge/c-87CEEB.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-87CEEB.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
