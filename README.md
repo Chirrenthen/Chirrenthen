@@ -32,7 +32,7 @@
 ![Chirrenthen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chirrenthen&show_icons=true&include_all_commits=true&theme=gradient&hide_border=false)
 
 ## 🔥Streak
-![Chirrenthen's Streak](https://github-readme-streak-stats.herokuapp.com/?user=chirrenthen&theme=light&hide_border=false)
+![Chirrenthen's Streak](https://github-readme-streak-stats.herokuapp.com/?username=chirrenthen&theme=light&hide_border=false)
 
 ## ✨Contributions
 ![Chirrenthen's Contributions](https://github.com/Chirrenthen/Chirrenthen/blob/output/github-contribution-grid-snake.svg)
