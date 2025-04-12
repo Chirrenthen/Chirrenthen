@@ -5,8 +5,7 @@
 
 ## Connect with Me
 
-- 🔭 **Website**: Explore my projects on [IoT Hub](https://chirrenthen13.wixsite.com/iothub).  
-- 📝 **Blogs**: Check out my latest articles on [IoT Blog](https://chirrenthen13.wixsite.com/iothub/blog).  
+- 🔭 **Website**: Explore my [Portfolio](https://chirrenthen.netlify.app).
 - 🧑🏻‍💻 **Support**: Consider supporting me on [Patreon](https://www.patreon.com/Chirrenthen).  
 - 🌱 **Learning**: Currently enhancing my skills in **Python**.  
 - 💬 **Ask me about**: Anything tech-related!  
