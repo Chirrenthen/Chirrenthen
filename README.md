@@ -43,5 +43,5 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=30&duration=3000&pause=1000&color=0096FFDC&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B%F0%9F%8F%BB;%F0%9F%A4%A9Make+sure+to+leave+a+star+%E2%9C%A8" />
 </h1>
 <h1 align="center">
-    <img src="https://visitcount.itsvg.in/api?id=Chirrenthen&label=Profile%20Views&color=12&icon=8&pretty=true" />
+    <img src="https://visitcount.itsvg.in/api?id=Chirrenthen&label=Profile%20Views&color=12&icon=8&pretty=true">
 </h1>
