@@ -28,10 +28,10 @@
 ![Chirrenthen's top used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chirrenthen&layout=compact)
 
 ## 📶GitHub Stats
-![Chirrenthen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chirrenthen&show_icons=true&include_all_commits=true&theme=gradient&hide_border=false)
+![Chirrenthen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chirrenthen&theme=default&show_icons=true&hide_border=false&count_private=true)
 
 ## 🔥Streak
-![Chirrenthen's Streak](https://github-readme-streak-stats.herokuapp.com/?username=chirrenthen&theme=light&hide_border=false)
+![Chirrenthen's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chirrenthen)
 
 ## ✨Contributions
 ![Chirrenthen's Contributions](https://github.com/Chirrenthen/Chirrenthen/blob/output/github-contribution-grid-snake.svg)
