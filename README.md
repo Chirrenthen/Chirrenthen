@@ -7,7 +7,7 @@
 
 - 🔭 **Website**: Explore my [Portfolio](https://chirrenthen.netlify.app).
 - 🧑🏻‍💻 **Support**: Consider supporting me on [Patreon](https://www.patreon.com/Chirrenthen).  
-- 🌱 **Learning**: Currently enhancing my skills in **Frontend Development**.  
+- 🌱 **Learning**: Currently enhancing my skills in **Frontend and Backend development**.  
 - 💬 **Ask me about**: Anything tech-related!  
 - 📫 **Contact**:
   
