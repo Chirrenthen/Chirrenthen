@@ -6,10 +6,9 @@
 ## Connect with Me
 
 - 🔭 **Website**: Explore my [Portfolio](https://chirrenthen.netlify.app).
-- 🧑🏻‍💻 **Support**: Consider supporting me on [Patreon](https://www.patreon.com/Chirrenthen).  
+- 🧑🏻‍💻 **Support**: Consider checking out my projects and improving them!.  
 - 🌱 **Learning**: Currently enhancing my skills in **Frontend and Backend development**.  
-- 💬 **Ask me about**: Anything tech-related!  
-- 📫 **Contact**:
+- 💬 **Ask me about**: Anything tech-related!
   
 
 ## Languages Known
