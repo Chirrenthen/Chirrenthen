@@ -1,4 +1,4 @@
-<h1 align="center">
+  <h1 align="center">
                  <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=30&duration=3000&pause=1000&color=0096FFDC&width=430&lines=Hi+There+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Chirrenthen+!" />
 </h1>
 <img align="right" width="350" height="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnR3ZXp0M25sdG1xa3U3ODkzNWFkeDRveTRnOTRha2FrbnA3Zzl0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fYwNePiilaTQYevESX/giphy.webp">
