@@ -23,13 +23,17 @@
 ## <u>📊Statistics </u>
 
 ## </>Top Languages
-![Chirrenthen's top used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chirrenthen&layout=compact)
+![Chirrenthen's top used Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chirrenthen&layout=compact)
 
 ## 📶GitHub Stats
-![Chirrenthen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chirrenthen&theme=default&show_icons=true&hide_border=false&count_private=true)
+![Chirrenthen's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=chirrenthen&show_icons=true)
 
 ## 🔥Streak
 ![Chirrenthen's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chirrenthen)
+
+## 🥇Top Repositories
+![KernelESP](https://github-readme-stats-fast.vercel.app/api/pin/?username=chirrenthen&repo=KernelESP) ![ArduinOS](https://github-readme-stats-fast.vercel.app/api/pin/?username=chirrenthen&repo=arduinos)
+![Qubo](https://github-readme-stats-fast.vercel.app/api/pin/?username=chirrenthen&repo=Qubo)
 
 ## ✨Contributions
 ![Chirrenthen's Contributions](https://github.com/Chirrenthen/Chirrenthen/blob/output/github-contribution-grid-snake.svg)
