@@ -39,7 +39,7 @@
 ![Chirrenthen's Contributions](https://github.com/Chirrenthen/Chirrenthen/blob/output/github-contribution-grid-snake.svg)
 
 ## ⬆️Contribution Graph
-![Chirrenthen's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chirrenthen&bg_color=ffffff&color=000407&line=4246ff&point=42fffb&area=true&hide_border=true)
+![Chirrenthen's GitHub activity graph](https://ch-activity-graph.vercel.app/graph?username=Chirrenthen&bg_color=ffffff&color=000407&line=4246ff&point=42fffb&area=true&hide_border=true)
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=30&duration=3000&pause=1000&color=0096FFDC&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B%F0%9F%8F%BB;%F0%9F%A4%A9Make+sure+to+leave+a+star+%E2%9C%A8" />
