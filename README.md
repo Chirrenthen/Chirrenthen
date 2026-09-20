@@ -46,4 +46,4 @@
 </h1>
 <h1 align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=chirrenthen)
+![Profile Views](https://komarev.com/ghpvc/?username=chirrenthen&style=for-the-badge&color=07dec8)
