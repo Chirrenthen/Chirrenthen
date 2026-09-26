@@ -28,7 +28,7 @@
 
 ### </> Top Languages
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chirrenthen&layout=compact&theme=dark_github&hide_border=false&bg_color=0d1117]">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chirrenthen&layout=compact&theme=dark&hide_border=true&bg_color=0d1117">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chirrenthen&layout=compact&theme=default">
   <img alt="Chirrenthen's top used languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chirrenthen&layout=compact">
 </picture>
