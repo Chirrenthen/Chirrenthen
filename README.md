@@ -35,7 +35,7 @@
 
 ### 📶 GitHub Stats
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=chirrenthen&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=chirrenthen&show_icons=true&theme=dark_github&hide_border=true&bg_color=0d1117">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=chirrenthen&show_icons=true&theme=default">
   <img alt="Chirrenthen's GitHub stats" src="https://github-readme-stats-fast.vercel.app/api?username=chirrenthen&show_icons=true">
 </picture>
