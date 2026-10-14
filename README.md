@@ -1,14 +1,25 @@
+<!-- TOP GITHUB BANNER -->
 <p align="center">
   <img src="https://github.blog/wp-content/themes/github-2021-child/assets/img/featured-v3-improvements.svg" width="150%" height="50%" alt="GitHub Banner">
 </p>
 
+<!-- GREETING -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=30&duration=3000&pause=1000&color=0096FFDC&width=430&lines=Hi+There+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Chirrenthen+!" />
 </h1>
 
-<a href="https://github.com/Chirrenthen/readme-gif">
-  <img align="right" width="350" height="350" src="https://readme-gif.vercel.app/api/code">
-</a>
+<!-- GIF SECTION -->
+<table align="right">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Chirrenthen/readme-gif">
+        <img width="350" height="350" src="https://readme-gif.vercel.app/api/code" alt="Random GIF">
+      </a>
+      <br />
+      <sub><i>🎲 Psst... hit reload for a new vibe!🔄️</i></sub>
+    </td>
+  </tr>
+</table>
 
 ## Connect with Me
 
@@ -80,12 +91,14 @@
   <img alt="Chirrenthen's GitHub activity graph" src="https://ch-activity-graph.vercel.app/graph?username=Chirrenthen&bg_color=ffffff&color=000407&line=4246ff&point=42fffb&area=true&hide_border=true">
 </picture>
 
+<!-- THANKS -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=30&duration=3000&pause=1000&color=0096FFDC&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B%F0%9F%8F%BB;%F0%9F%A4%A9Make+sure+to+leave+a+star+%E2%9C%A8" />
 </h1>
 
+<!-- PROFILE VIEWS -->
 <h1 align="center">
-
+  
 ![Profile Views](https://komarev.com/ghpvc/?username=chirrenthen&style=for-the-badge&color=07dec8)
-
+  
 </h1>
