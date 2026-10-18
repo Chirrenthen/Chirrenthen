@@ -96,6 +96,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=30&duration=3000&pause=1000&color=0096FFDC&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B%F0%9F%8F%BB;%F0%9F%A4%A9Make+sure+to+leave+a+star+%E2%9C%A8" />
 </h1>
 
+<!-- END BANNER -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.jpeg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.jpeg">
+    <img width="100%" alt="GitHub Profile Footer Banner" src="./assets/banner-light.jpeg">
+  </picture>
+</p>
+
 <!-- PROFILE VIEWS -->
 <h1 align="center">
   
