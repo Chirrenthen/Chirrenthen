@@ -41,16 +41,16 @@
 
 ### </> Top Languages
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chirrenthen&layout=compact&theme=dark&hide_border=true&bg_color=0d1117">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chirrenthen&layout=compact&theme=default">
-  <img alt="Chirrenthen's top used languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chirrenthen&layout=compact">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=chirrenthen&layout=compact&theme=dark&hide_border=true&bg_color=0d1117">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=chirrenthen&layout=compact&theme=default">
+  <img alt="Chirrenthen's top used languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=chirrenthen&layout=compact">
 </picture>
 
 ### 📶 GitHub Stats
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=chirrenthen&show_icons=true&theme=dark_github&hide_border=true&bg_color=0d1117">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=chirrenthen&show_icons=true&theme=default">
-  <img alt="Chirrenthen's GitHub stats" src="https://github-readme-stats-fast.vercel.app/api?username=chirrenthen&show_icons=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-extended.vercel.app/api?username=chirrenthen&show_icons=true&theme=dark_github&hide_border=true&bg_color=0d1117">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-extended.vercel.app/api?username=chirrenthen&show_icons=true&theme=default">
+  <img alt="Chirrenthen's GitHub stats" src="https://github-readme-stats-extended.vercel.app/api?username=chirrenthen&show_icons=true">
 </picture>
 
 ### 🔥 Streak
