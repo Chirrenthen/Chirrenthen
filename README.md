@@ -86,7 +86,7 @@
 
 ### ⬆️ Contribution Graph
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ch-activity-graph.vercel.app/graph?username=Chirrenthen&bg_color=0d1117&color=42fffb&line=4246ff&point=ffffff&area=true&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://ch-activity-graph.vercel.app/graph?username=Chirrenthen&bg_color=0d1117&color=42fffb&line=4246ff&point=ffffff&area=true&hide_border=true&theme=react-dark">
   <source media="(prefers-color-scheme: light)" srcset="https://ch-activity-graph.vercel.app/graph?username=Chirrenthen&bg_color=ffffff&color=000407&line=4246ff&point=42fffb&area=true&hide_border=true">
   <img alt="Chirrenthen's GitHub activity graph" src="https://ch-activity-graph.vercel.app/graph?username=Chirrenthen&bg_color=ffffff&color=000407&line=4246ff&point=42fffb&area=true&hide_border=true">
 </picture>
