@@ -48,9 +48,9 @@
 
 ### 📶 GitHub Stats
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-extended.vercel.app/api?username=chirrenthen&show_icons=true&theme=dark_github&hide_border=true&bg_color=0d1117">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-extended.vercel.app/api?username=chirrenthen&show_icons=true&theme=default">
-  <img alt="Chirrenthen's GitHub stats" src="https://github-readme-stats-extended.vercel.app/api?username=chirrenthen&show_icons=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-extended.vercel.app/api?username=chirrenthen&show_icons=true&theme=dark_github&rank_icon=github&hide_border=true&bg_color=0d1117">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-extended.vercel.app/api?username=chirrenthen&show_icons=true&rank_icon=github&theme=default">
+  <img alt="Chirrenthen's GitHub stats" src="https://github-readme-stats-extended.vercel.app/api?username=chirrenthen&rank_icon=github&show_icons=true">
 </picture>
 
 ### 🔥 Streak
