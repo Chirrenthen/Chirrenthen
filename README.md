@@ -41,16 +41,16 @@
 
 ### </> Top Languages
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=chirrenthen&layout=compact&theme=dark&hide_border=true&bg_color=0d1117">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=chirrenthen&layout=compact&theme=default">
-  <img alt="Chirrenthen's top used languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=chirrenthen&layout=compact">
+  <source media="(prefers-color-scheme: dark)" srcset="https://ch-readme-stats.vercel.app/api/top-langs/?username=chirrenthen&layout=compact&theme=dark&hide_border=true&bg_color=0d1117">
+  <source media="(prefers-color-scheme: light)" srcset="https://ch-readme-stats.vercel.app/api/top-langs/?username=chirrenthen&layout=compact&theme=default">
+  <img alt="Chirrenthen's top used languages" src="https://ch-readme-stats.vercel.app/api/top-langs/?username=chirrenthen&layout=compact">
 </picture>
 
 ### 📶 GitHub Stats
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-extended.vercel.app/api?username=chirrenthen&show_icons=true&theme=dark_github&rank_icon=github&hide_border=true&bg_color=0d1117">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-extended.vercel.app/api?username=chirrenthen&show_icons=true&rank_icon=github&theme=default">
-  <img alt="Chirrenthen's GitHub stats" src="https://github-readme-stats-extended.vercel.app/api?username=chirrenthen&rank_icon=github&show_icons=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://ch-readme-stats.vercel.app/api?username=chirrenthen&show_icons=true&theme=dark_github&rank_icon=github&hide_border=true&bg_color=0d1117">
+  <source media="(prefers-color-scheme: light)" srcset="https://ch-readme-stats.vercel.app/api?username=chirrenthen&show_icons=true&rank_icon=github&theme=default">
+  <img alt="Chirrenthen's GitHub stats" src="https://ch-readme-stats.vercel.app/api?username=chirrenthen&rank_icon=github&show_icons=true">
 </picture>
 
 ### 🔥 Streak
